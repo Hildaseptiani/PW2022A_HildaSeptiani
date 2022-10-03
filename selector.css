@@ -1,0 +1,15 @@
+body{
+    font-family: arial;
+}
+.twitter{
+    color: aqua;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+p.cetak-miring{
+    letter-spacing: 4px;
+}
+a{
+    font-style: oblique;
+}

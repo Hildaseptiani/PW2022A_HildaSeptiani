@@ -1,0 +1,18 @@
+body{
+    font-family: 'Counter Now', courier, monospace ;
+}
+
+hi{
+    text-align: center; 
+    color: aqua;
+}
+
+p{
+    color: aqua;
+    font-family: arial;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 16px;
+    line-height: 18px;
+}
